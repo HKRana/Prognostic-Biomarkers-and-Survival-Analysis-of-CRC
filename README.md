@@ -10,10 +10,9 @@
 4. The code will also provide survival information and survival curves of the biomarkers
 ##
 
-**ROC Analysis of the Influential Genes and Model:**
-1. The folder "Code for Validation" contains two files for the ROC analysis for the influential genes and model
-2. The file "ROC of the IFGs.R" is for the ROC analysis of the influential genes
-3. The file "ROC of the model.R" is for the ROC analysis of the model
+**ROC Analysis of the Prognostic Biomarkers:**
+1. The folder "Code for Validation" contains several files for the ROC analysis for the prognostic biomarkers
+2. The file "ROC of the PBMs.R" is for the ROC analysis of the influential genes
 
 ##
 
